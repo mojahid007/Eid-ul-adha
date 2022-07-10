@@ -1,0 +1,15 @@
+h1{
+    font-weight: 900; 
+    color: aqua;
+   
+}
+h2{
+    color: cadetblue;
+    
+}
+.background-image{
+    background-image: url('images/pngtree-eid-mubarak-background-picture-image_1159654.jpg');
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+}
