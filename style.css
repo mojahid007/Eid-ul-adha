@@ -24,6 +24,41 @@
     color: aliceblue;
     text-decoration: none;
     padding: 20px 30px ;
-    margin-top: 20px 40px;
     
+    
+}
+.flex{
+    display: flex;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.flex img{
+   margin-left: 200px;
+}
+.flex a{
+    padding: 20px 30px;
+    background-color: orange;
+    text-decoration: none;
+    font-size: large;
+    
+}
+.picture img{
+    margin-top: 150px;
+    width: 500px;
+    height: 300px;
+}
+section{
+    display: flex;
+   
+}
+.text{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.text a{
+    text-decoration: none;
+    padding: 20px 30px;
+    background-color: orange;
+    font-size: larger;
+    font-weight: 900;
 }
