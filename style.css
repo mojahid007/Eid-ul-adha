@@ -1,15 +1,29 @@
-h1{
-    font-weight: 900; 
-    color: aqua;
-   
+#banner{
+    background: url(images/cattles-at-the-baishmouja-haat-on-the-banks-of-meghna-river-at-brahmanbarias-nabinagar-upazila-bangladesh-J0HD2C.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
 }
-h2{
-    color: cadetblue;
+.banner-text{
+    text-align: center;
+    padding-top: 180px;
+    font-weight: bolder;
     
 }
-.background-image{
-    background-image: url('images/pngtree-eid-mubarak-background-picture-image_1159654.jpg');
-    height: 100vh;
-    margin: 0 auto;
-    text-align: center;
+.banner-text h1{
+    color: antiquewhite;
+    font-size: xx-large;
+}
+.banner-text h2{
+    color: blueviolet;
+    font-style: italic;
+}
+.banner-text a{
+    background-color: brown;
+    background-size: 50px;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 20px 30px ;
+    margin-top: 20px 40px;
+    
 }
